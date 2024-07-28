@@ -1,0 +1,8 @@
+.navbar-nav {
+    margin-left: auto;
+}
+.bd-search {
+    position: absolute;
+    left: 40%;
+    margin-left: -100px;
+}
